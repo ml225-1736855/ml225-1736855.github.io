@@ -7,12 +7,12 @@
 	text-align:center;
 	background-color: #8E41D5;
 }
-Header h1{ font-size: 60px; 
+#Header h1{ font-size: 60px; 
 				font-family: "Passion One"; 
 			    color: #FFBC00; 
 			    font-weight: bold; 
 			    }
-p{ font-size: 60px; 
+p{ font-size: 20px; 
 	font-family: "Arial"; 
 	color: White; 
 	font-weight: bold; 
@@ -49,7 +49,7 @@ h3{ color: #FFBC00;
 }
 
 #Footer{
-	width: 1200px;
+	width: 3000px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 10px;
